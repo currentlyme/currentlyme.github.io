@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: no lick but a promise
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Promises need to be kept. In particular, when starting a new habit. 
+For the next three months I'll write a tiny snipped of thought a day. 
+Thats my promise to me: no lick, but a real promise.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
