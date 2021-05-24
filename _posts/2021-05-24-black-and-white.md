@@ -1,4 +1,7 @@
-black and white
+---
+layout: post
+title: black and white
+---
 
 Many people and expescially people who are traumatized expereince black adn white thinking. Either you are perfect or you are not. Either you like the music or you hate it. 
 Ofte there is nothing inbetween. Either you like a person or you dislike them. Either you are really good in it or you suck.
