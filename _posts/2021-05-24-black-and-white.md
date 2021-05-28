@@ -3,11 +3,10 @@ layout: post
 title: black and white
 ---
 
-Many people and expescially people who are traumatized expereince black adn white thinking. Either you are perfect or you are not. Either you like the music or you hate it. 
-Ofte there is nothing inbetween. Either you like a person or you dislike them. Either you are really good in it or you suck.
+Black and white thinking: Either you like the music or you hate it. Either you are really good in sth or you simply suck. Either you vibe with a person or they dislike them. 
+With black and white thinking there is nothing inbetween. 
 
-Havinge experienced a traumatizing situation makes you want to control everything. To never be in such a helpless, overwhelming situation again. 
-In your need to control you pit things into boxes - quickly. And the easiest way to do that is to have a box on each side of the extrem.
+Black and white thinking helps to judge fast, to make decisions fast. It gives you a sense of control, it makes you feel safe. 
+But you, life, relationships or anything really does not exist inbetween two poles. Its a continuom. You can be really good and still suck at times. You can be loving and kind and sometimes an asshole. You can be loved for being you and still disliked for coming too late. And you can even be mediocre and still good enough. 
 
-When trauma passes you realize life is a contionuum. You can be really good and still suck at times. You can be loving and kind and sometimes an asshole.
 
